@@ -1,6 +1,6 @@
 # awesome-vala [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- A curated list of awesome Vala resources
+ A curated list of awesome Vala libraries
 
 ## Contents
 
