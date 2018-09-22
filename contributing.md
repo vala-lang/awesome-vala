@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure that the libraries you link has proper bindings and not just untested GIR stuff
+- Make sure that the libraries you link have proper bindings and not just untested GIR stuff
 - Free Software Only, if possible
-- If a library has a binding outside of its source tree (a separate code, for example), link that too, in the same line.
+- If a library has a binding outside of its source tree (a separate code repository, for example), link that too, in the same line.
 
 Thank you for your suggestions!
 
