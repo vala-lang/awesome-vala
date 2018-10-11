@@ -52,6 +52,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [vast](https://github.com/rainwoodman/vast) is a project for generative modelling in Vala. Think of TensorFlow rewritten in Vala.
 
+## Crypto and Security
+
+- [GnuTLS](https://www.gnutls.org/) is a secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple API to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, and other required structures.
+
 ## Web Development
 
 - [Valum](https://github.com/valum-framework/valum) is a Web micro-framework entirely written in Vala.
