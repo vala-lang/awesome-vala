@@ -59,6 +59,7 @@ About this section. Optional. Keep this short and focus on the list.
 ## Web Development
 
 - [Valum](https://github.com/valum-framework/valum) is a Web micro-framework entirely written in Vala.
+- [Ambition](https://github.com/AmbitionFramework/ambition) is a web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉)
 
 ## Contribute
 
