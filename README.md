@@ -15,8 +15,6 @@
 
 ## Data Structures & Data Types
 
-About this section. Optional. Keep this short and focus on the list.
-
 - [Libgee](https://wiki.gnome.org/Projects/Libgee), an utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 - [Graphene](https://github.com/ebassi/graphene) is a thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 - [Numeric-GLib](https://github.com/arteymix/numeric-glib) is a collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
@@ -25,7 +23,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [Cairo](https://cairographics.org/) is a 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
 - [SDL2](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Community bindings are available [here](https://github.com/sdl2-vapi/sdl2-vapi).
-- [GRX](https://github.com/ev3dev/grx) s a graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
+- [GRX](https://github.com/ev3dev/grx) is a graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
 - [GEGL](http://gegl.org/) is a data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
 - [Babl](http://gegl.org/babl/) is a dynamic, any to any, pixel format translation library.
 
