@@ -4,11 +4,11 @@
 
 ## Contents
 
-- [Data Structures & Data Types](#data-structures-&-data-types)
+- [Data Structures & Data Types](#data-structures--data-types)
 - [Graphic Libraries](#graphic-libraries)
 - [GUI Programming](#gui-programming)
 - [Multimedia Processing](#multimedia-processing)
-- [XML & Data Serialization](#xml-&-data-serialization)
+- [XML & Data Serialization](#xml--data-serialization)
 - [Templating](#templating)
 - [Numerical Computation](#numerical-computation)
 - [Web Development](#web-development)
@@ -29,7 +29,7 @@
 
 ## GUI Programming
 
-- [GTK+](https://www.gtk.org/) - the de facto library fro GUI development in Vala. Bindings are included with the vala compiler.
+- [GTK+](https://www.gtk.org/) - The de facto library fro GUI development in Vala. Bindings are included with the vala compiler.
 
 ## Multimedia Processing
 
@@ -37,9 +37,9 @@
 
 ## XML & Data Serialization
 
-- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML
+- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML.
 - [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
-- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML
+- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.
 
 ## Templating
 
