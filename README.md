@@ -11,6 +11,7 @@
 - [XML & Data Serialization](#xml--data-serialization)
 - [Templating](#templating)
 - [Numerical Computation](#numerical-computation)
+- [Crypto & Security](#crypto--security)
 - [Web Development](#web-development)
 
 ## Data Structures & Data Types
@@ -50,7 +51,7 @@
 
 - [vast](https://github.com/rainwoodman/vast) - A project for generative modelling in Vala. Think of TensorFlow rewritten in Vala.
 
-## Crypto and Security
+## Crypto & Security
 
 - [GnuTLS](https://www.gnutls.org/) - A secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple API to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, and other required structures.
 
