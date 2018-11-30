@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Data Structures](#data-structures-&-data-types)
+- [Data Structures & Data Types](#data-structures-&-data-types)
 - [Graphic Libraries](#graphic-libraries)
 - [GUI Programming](#gui-programming)
 - [Multimedia Processing](#multimedia-processing)
@@ -15,49 +15,49 @@
 
 ## Data Structures & Data Types
 
-- [Libgee](https://wiki.gnome.org/Projects/Libgee), an utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
-- [Graphene](https://github.com/ebassi/graphene) is a thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
-- [Numeric-GLib](https://github.com/arteymix/numeric-glib) is a collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
+- [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
+- [Graphene](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+- [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 
 ## Graphic Libraries
 
-- [Cairo](https://cairographics.org/) is a 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
-- [SDL2](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Community bindings are available [here](https://github.com/sdl2-vapi/sdl2-vapi).
-- [GRX](https://github.com/ev3dev/grx) is a graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
-- [GEGL](http://gegl.org/) is a data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
-- [Babl](http://gegl.org/babl/) is a dynamic, any to any, pixel format translation library.
+- [Cairo](https://cairographics.org/) - A 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
+- [SDL2](https://www.libsdl.org/) - A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Community bindings are available [here](https://github.com/sdl2-vapi/sdl2-vapi).
+- [GRX](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
+- [GEGL](http://gegl.org/) - A data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
+- [Babl](http://gegl.org/babl/) - A dynamic, any to any, pixel format translation library.
 
 ## GUI Programming
 
-- [GTK+](https://www.gtk.org/) is the de facto library fro GUI development in Vala. Bindings are included with the vala compiler.
+- [GTK+](https://www.gtk.org/) - the de facto library fro GUI development in Vala. Bindings are included with the vala compiler.
 
 ## Multimedia Processing
 
-- [GStreamer](http://gstreamer.freedesktop.org/) is a powerful framework for creating multimedia applications.
+- [GStreamer](http://gstreamer.freedesktop.org/) - A powerful framework for creating multimedia applications.
 
 ## XML & Data Serialization
 
-- [GXML](https://gitlab.gnome.org/GNOME/gxml/) is a GObject API for manipulating XML and a Serializable framework from GObject to XML
-- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
-- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) is the GLib binding of libyaml, plus a GObject builder that understands YAML
+- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML
+- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
+- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML
 
 ## Templating
 
-- [Compose](https://github.com/arteymix/compose) is a functional templating library for Vala.
-- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) is a library for template expansion which supports calling into GObject Introspection from templates.
+- [Compose](https://github.com/arteymix/compose) - A functional templating library for Vala.
+- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
 
 ## Numerical Computation
 
-- [vast](https://github.com/rainwoodman/vast) is a project for generative modelling in Vala. Think of TensorFlow rewritten in Vala.
+- [vast](https://github.com/rainwoodman/vast) - A project for generative modelling in Vala. Think of TensorFlow rewritten in Vala.
 
 ## Crypto and Security
 
-- [GnuTLS](https://www.gnutls.org/) is a secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple API to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, and other required structures.
+- [GnuTLS](https://www.gnutls.org/) - A secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple API to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, and other required structures.
 
 ## Web Development
 
-- [Valum](https://github.com/valum-framework/valum) is a Web micro-framework entirely written in Vala.
-- [Ambition](https://github.com/AmbitionFramework/ambition) is a web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉)
+- [Valum](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
+- [Ambition](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉)
 
 ## Contribute
 
