@@ -5,6 +5,7 @@
 ## Contents
 
 - [Data Structures & Data Types](#data-structures--data-types)
+- [Editor Plugins](#editor-plugins)
 - [Graphic Libraries](#graphic-libraries)
 - [GUI Programming](#gui-programming)
 - [Multimedia Processing](#multimedia-processing)
@@ -19,6 +20,13 @@
 - [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 - [Graphene](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 - [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
+
+## Editor Plugins
+
+- [Vala Code](https://github.com/thiagoabreu/vala-code) is a plugin for VIsual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+- [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) is a TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
+- [language-vala-modern](https://atom.io/packages/language-vala-modern) provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
+- [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) is a basic plugin for Sublime Text 3 that provides syntax highlighting.
 
 ## Graphic Libraries
 
