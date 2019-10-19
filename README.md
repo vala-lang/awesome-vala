@@ -6,6 +6,7 @@
 
 - [Data Structures & Data Types](#data-structures--data-types)
 - [Editor Plugins](#editor-plugins)
+- [Language Servers](#language-servers)
 - [Graphic Libraries](#graphic-libraries)
 - [GUI Programming](#gui-programming)
 - [Multimedia Processing](#multimedia-processing)
@@ -27,6 +28,11 @@
 - [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
 - [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
 - [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
+
+## Language Servers
+
+- [GVLS](https://gitlab.gnome.org/esodan/gvls) - A service that provides code completion and formatting for Vala. This does not currently work with Visual Studio Code and has an open issue for implementing the Language Server Protocol, so it's not a proper Language Server.
+- [vala-language-server](https://github.com/benwaffle/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ## Graphic Libraries
 
