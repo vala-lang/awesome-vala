@@ -1,4 +1,4 @@
-# awesome-vala [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Vala [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  A curated list of awesome Vala libraries.
 
@@ -23,10 +23,10 @@
 
 ## Editor Plugins
 
-- [Vala Code](https://github.com/thiagoabreu/vala-code) is a plugin for VIsual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
-- [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) is a TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
-- [language-vala-modern](https://atom.io/packages/language-vala-modern) provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
-- [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) is a basic plugin for Sublime Text 3 that provides syntax highlighting.
+- [Vala Code](https://github.com/thiagoabreu/vala-code) - A plugin for VIsual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+- [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
+- [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
+- [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
 
 ## Graphic Libraries
 
