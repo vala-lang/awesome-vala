@@ -1,6 +1,6 @@
 # Awesome Vala [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- A curated list of awesome Vala libraries.
+ A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
 
 ## Contents
 
