@@ -46,7 +46,7 @@
 
 ## GUI Programming
 
-- [GTK+](https://www.gtk.org/) - The de facto library fro GUI development in Vala. Bindings are included with the vala compiler.
+- [GTK+](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
 
 ## Multimedia Processing
 
@@ -65,7 +65,7 @@
 
 ## Numerical Computation
 
-- [vast](https://github.com/rainwoodman/vast) - A project for generative modelling in Vala. Think of TensorFlow rewritten in Vala.
+- [vast](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
 
 ## Crypto & Security
 
