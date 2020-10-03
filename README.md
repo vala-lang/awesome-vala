@@ -17,6 +17,7 @@
 - [Numerical Computation](#numerical-computation)
 - [Crypto & Security](#crypto--security)
 - [Web Development](#web-development)
+- [IoC and Dependency Injection](#ioc-and-dependency-injection)
 
 ## Data Structures & Data Types
 
@@ -75,6 +76,10 @@
 
 - [Valum](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
 - [Ambition](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉)
+
+## IoC and Dependency Injection
+
+- [Vadi](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
 
 ## Contribute
 
