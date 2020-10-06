@@ -68,6 +68,7 @@
 ## Numerical Computation
 
 - [vast](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
+- [balistica](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here](https://github.com/fusilero/balistica).
 
 ## Crypto & Security
 
