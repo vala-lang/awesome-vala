@@ -21,39 +21,35 @@
 
 ## Apps
 
-- [Akira]
+- [Akira](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK 
 - [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long
-- [Birdfont]
-- [Blackbox]
-- [Connections]
-- [elementary OS App Center]
-- [enigma]
-- [Flowtime]
-- [g4music]
-- [geary]
-- [GitG]
-- [GNOME Boxes]
-- [GNOME Calculator]
+- [Birdfont](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format. 
+- [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal. 
+- [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
+- [elementary OS App Center](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS 
+- [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer
+- [g4music](https://gitlab.gnome.org/neithern/g4music) - A beautiful, fast, fluent, light weight music player written in GTK4. 
+- [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop. 
+- [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/)
+- [GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - A simple GNOME 3 application to access virtual machines.
+- [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
 - [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz
-- [Haguichi]
-- [High Score (GNOME Games)]
+- [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 - [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app
 - [Integrity Check] -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
 - [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages. 
-- [Meteo]
-- [monitor]
-- [Notejot]
-- [Notes-up]
-- [Pac-man - Manjaro package manager]
-- [Paper (makdown notes app)]
-- [pdfpc]
-- [Peek]
-- [Planner]
-- [Spice-up]
-- [Starfish]
-- [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) -  A simple GTK based notification daemon for SwayWM
-- [Transporter]
-- [VAMM (Vinari OS Apache & MariaDB Manager)]
+- [Meteo](https://gitlab.com/bitseater/meteo) - GTK Weather app using the OpenWeatherMap API
+- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources. 
+- [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app. 
+- [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager 
+- [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown
+- [pdfpc](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
+- [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface 
+- [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop 
+- [Starfish](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS. 
+- [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
+- [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI
 
 ## Tools
 
@@ -65,11 +61,11 @@
 
 - [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib 
 - [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
-- [gpseq]
-- [GSVG (GObject SVG Library)]
+- [gpseq](https://gitlab.com/kosmospredanie/gpseq) - A parallelism library for Vala and GObject 
+- [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API
 - [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C
 - [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo 
-- [vul (Vala Utility Libraries)]
+- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - Vala Utility Libraries (Streams, Text, JSON, Archives) 
 
 ### Data Structures & Data Types
 
