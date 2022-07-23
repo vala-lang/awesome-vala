@@ -52,6 +52,7 @@
 - Starfish
 - Birdfont
 - Peek
+- Akira
 
 ## Tools
 
