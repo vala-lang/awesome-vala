@@ -41,12 +41,17 @@
 - GitG
 - Connections
 - Blackbox
-- otejot
-- Planenr
+- Notejot
+- Planner
+- GNOME Calculator
+- GNOME Boxes
 - Flowtime
 - Paper (makdown notes app)
 - Spice-up
 - Notes-up
+- Starfish
+- Birdfont
+- Peek
 
 ## Tools
 
