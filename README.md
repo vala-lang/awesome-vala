@@ -21,60 +21,60 @@
 
 ## Apps
 
-- elementary App Center
-- Transporter
-- pdfpc
-- enigma
-- monitor
-- notejot
-- g4music
-- geary
-- Meteo
-- VAMM (Vinari OS Apache & MariaDB Manager)
-- Integrity Check -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
-- [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app
-- [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz
-- [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages. 
+- [Akira]
 - [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long
-- High Score (GNOME Games)
-- Haguichi
-- GitG
-- Connections
-- Blackbox
-- Notejot
-- Planner
-- GNOME Calculator
-- GNOME Boxes
-- Flowtime
-- Paper (makdown notes app)
-- Spice-up
-- Notes-up
-- Starfish
-- Birdfont
-- Peek
-- Akira
+- [Birdfont]
+- [Blackbox]
+- [Connections]
+- [elementary OS App Center]
+- [enigma]
+- [Flowtime]
+- [g4music]
+- [geary]
+- [GitG]
+- [GNOME Boxes]
+- [GNOME Calculator]
+- [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz
+- [Haguichi]
+- [High Score (GNOME Games)]
+- [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app
+- [Integrity Check] -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
+- [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages. 
+- [Meteo]
+- [monitor]
+- [Notejot]
+- [Notes-up]
+- [Pac-man - Manjaro package manager]
+- [Paper (makdown notes app)]
+- [pdfpc]
+- [Peek]
+- [Planner]
+- [Spice-up]
+- [Starfish]
+- [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) -  A simple GTK based notification daemon for SwayWM
+- [Transporter]
+- [VAMM (Vinari OS Apache & MariaDB Manager)]
 
 ## Tools
 
-- [Valdo](https://github.com/vala-lang/valdo) - Create new Vala projects from templates
-- [Spider](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure
 - [EasyDocs](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation    
+- [Spider](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure
+- [Valdo](https://github.com/vala-lang/valdo) - Create new Vala projects from templates
 
 ## Libraries
 
-- vul (Vala Utility Libraries)
-- gpseq
-- GSVG (GObject SVG Library)
-- [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
-- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo 
-- [united](https://github.com/lcallarec/united) - Simplifies units manipulation
-- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C
 - [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib 
+- [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
+- [gpseq]
+- [GSVG (GObject SVG Library)]
+- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C
+- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo 
+- [vul (Vala Utility Libraries)]
 
 ### Data Structures & Data Types
 
-- [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 - [Graphene](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+- [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 - [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 - [United](https://github.com/lcallarec/united) - A library for unit manipulation (like kilograms, meters, etc).
 
