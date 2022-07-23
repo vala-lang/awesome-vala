@@ -21,9 +21,49 @@
 
 ## Apps
 
+- elementary App Center
+- Transporter
+- pdfpc
+- enigma
+- monitor
+- notejot
+- g4music
+- geary
+- Meteo
+- VAMM (Vinari OS Apache & MariaDB Manager)
+- Integrity Check -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
+- [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app
+- [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz
+- [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages. 
+- [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long
+- High Score (GNOME Games)
+- Haguichi
+- GitG
+- Connections
+- Blackbox
+- otejot
+- Planenr
+- Flowtime
+- Paper (makdown notes app)
+- Spice-up
+- Notes-up
+
 ## Tools
 
+- [Valdo](https://github.com/vala-lang/valdo) - Create new Vala projects from templates
+- [Spider](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure
+- [EasyDocs](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation    
+
 ## Libraries
+
+- vul (Vala Utility Libraries)
+- gpseq
+- GSVG (GObject SVG Library)
+- [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
+- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo 
+- [united](https://github.com/lcallarec/united) - Simplifies units manipulation
+- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C
+- [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib 
 
 ### Data Structures & Data Types
 
