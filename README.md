@@ -36,7 +36,8 @@
 - [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz
 - [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 - [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app
-- [Integrity Check] -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
+- [Integrity Check](https://gitlab.com/vinarisoftware/integrity-check-gtk) -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
+- [Korembi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
 - [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages. 
 - [Meteo](https://gitlab.com/bitseater/meteo) - GTK Weather app using the OpenWeatherMap API
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources. 
