@@ -10,29 +10,31 @@ A curated list of resources for Vala - A programming language using modern high 
     - [Cryptography & Security](#cryptography--security)
     - [Design Tools](#design-tools)
     - [Development Tools](#development-tools)
-    - [Gaming](#gaming)
+    - [Games](#games)
     - [Internet Browsers](#internet-browsers)
     - [Music](#music)
     - [Personalization](#personalization)
     - [Productivity](#productivity)
     - [System Tools](#system-tools)
     - [Virtualization](#virtualization)
+    - [Weather](#weather)
 - [CLI Tools](#cli-tools)
 - [Editor Plugins](#editor-plugins)
 - [Language Servers](#language-servers)
 - [Libraries](#libraries)
-    - [Crypto & Security](#cryptography--security-1)
+    - [Command-line](#command-line)
+    - [Concurrency](#concurrency)
+    - [Cryptography & Security](#cryptography--security-1)
     - [Data Structures & Data Types](#data-structures--data-types)
-    - [Graphic Libraries](#graphic-libraries)
+    - [Databases](#databases)
+    - [Graphics Libraries](#graphics-libraries)
     - [GUI Programming](#gui-programming)
     - [IoC and Dependency Injection](#ioc-and-dependency-injection)
-    - [Language Servers](#language-servers)
     - [Multimedia Processing](#multimedia-processing)
     - [Numerical Computation](#numerical-computation)
     - [Templating](#templating)
     - [Web Development](#web-development)
     - [XML & Data Serialization](#xml--data-serialization)
-    - [Cryptography](#cryptography)
 
 ### Apps
 
@@ -44,14 +46,13 @@ A curated list of resources for Vala - A programming language using modern high 
 
 - [Akira](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
 - [Birdfont](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
-- [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
 #### Development Tools
 
 - [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
 - [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
-####
+#### Games
 
 - [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 
@@ -65,7 +66,7 @@ A curated list of resources for Vala - A programming language using modern high 
 
 #### Personalization
 
-- [Korembi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- [Korembi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux.
 
 #### Productivity
 
@@ -74,8 +75,9 @@ A curated list of resources for Vala - A programming language using modern high 
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
 - [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
-- [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz
+- [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
 - [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
+- [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
 - [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
 - [pdfpc](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
@@ -107,25 +109,28 @@ A curated list of resources for Vala - A programming language using modern high 
 
 ### Editor Plugins
 
-- [Vala Code](https://github.com/thiagoabreu/vala-code) - A plugin for VIsual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+- [Vala VSCode](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
 - [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
 - [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
 - [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
 
 ### Langauge Servers
 
-- [vala-language-server](https://github.com/benwaffle/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
+- [vala-language-server](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ### Libraries
 
-- [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib.
-- [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
-- [gpseq](https://gitlab.com/kosmospredanie/gpseq) - A parallelism library for Vala and GObject.
-- [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API.
-- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C.
-- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
-- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - Vala Utility Libraries (Streams, Text, JSON, Archives).
+#### Command-line
 
+- [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
+
+#### Concurrency
+
+- [gpseq](https://gitlab.com/kosmospredanie/gpseq) - A parallelism library for Vala and GObject.
+
+#### Cryptography & Security
+
+- [GnuTLS](https://www.gnutls.org/) - A secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple API to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, and other required structures.
 
 #### Data Structures & Data Types
 
@@ -133,48 +138,55 @@ A curated list of resources for Vala - A programming language using modern high 
 - [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 - [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 - [United](https://github.com/lcallarec/united) - A library for unit manipulation (like kilograms, meters, etc).
+- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - Vala Utility Libraries (Streams, Text, JSON, Archives).
 
-#### Graphic Libraries
+#### Databases
+
+- [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib.
+
+#### Graphics Libraries
 
 - [Babl](http://gegl.org/babl/) - A dynamic, any to any, pixel format translation library.
 - [Cairo](https://cairographics.org/) - A 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
 - [GEGL](http://gegl.org/) - A data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
 - [GRX](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
+- [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API.
+- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
 - [SDL2](https://www.libsdl.org/) - A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Bindings are included in Vala and will be available starting with Vala 0.52.
 
 #### GUI Programming
 
 - [GTK](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
 
+#### IoC and Dependency Injection
+
+- [Vadi](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
+
 #### Multimedia Processing
 
 - [GStreamer](http://gstreamer.freedesktop.org/) - A powerful framework for creating multimedia applications.
-
-#### XML & Data Serialization
-
-- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML.
-- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
-- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.
-
-#### Templating
-
-- [Compose](https://github.com/arteymix/compose) - A functional templating library for Vala.
-- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
 
 #### Numerical Computation
 
 - [balistica](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here](https://github.com/fusilero/balistica).
 - [vast](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
 
-#### Crypto & Security
+#### Templating
 
-- [GnuTLS](https://www.gnutls.org/) - A secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them. It provides a simple API to access the secure communications protocols as well as APIs to parse and write X.509, PKCS #12, and other required structures.
+- [Compose](https://github.com/arteymix/compose) - A functional templating library for Vala.
+- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
+
+#### Text Processing
+
+- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C.
 
 #### Web Development
 
 - [Ambition](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).
 - [Valum](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
 
-#### IoC and Dependency Injection
+#### XML & Data Serialization
 
-- [Vadi](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
+- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML.
+- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
+- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.
