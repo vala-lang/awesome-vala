@@ -141,7 +141,7 @@ A curated list of resources for Vala - A programming language using modern high 
 - [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 - [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 - [United](https://github.com/lcallarec/united) - A library for unit manipulation (like kilograms, meters, etc).
-- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - A utility library for Vala featuring: Text stream handling (input and output), JSON serialization and serialization, and, Archive compression and extraction.
+- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - A set of utility libraties for Vala that add: Text stream handling (input and output), JSON serialization and deserialization, and, Archive compression and extraction.
 
 ### Databases
 
