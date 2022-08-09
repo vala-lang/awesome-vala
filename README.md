@@ -33,6 +33,7 @@ A curated list of resources for Vala - A programming language using modern high 
     - [Multimedia Processing](#multimedia-processing)
     - [Numerical Computation](#numerical-computation)
     - [Templating](#templating)
+    - [Text Processing](#text-processing)
     - [Web Development](#web-development)
     - [XML & Data Serialization](#xml--data-serialization)
 
