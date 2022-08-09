@@ -1,25 +1,47 @@
 # Awesome Vala [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="vala.svg" align="right" width="100">](https://wiki.gnome.org/Projects/Vala/)
+[<img src="vala.svg" align="right" width="100">](https://vala.dev)
 
- A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
+A curated list of resources for Vala - A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
 
-## Contents
+## Table of Contents
 
-- [Data Structures & Data Types](#data-structures--data-types)
+- [Apps](#apps)
+    - [Cryptography & Security](#crypto--security)
+    - [Design Tools](#design-tools)
+    - [Development Tools](#development-tools)
+    - [Games](#games)
+    - [Internet Browsers](#internet-browsers)
+    - [Music](#music)
+    - [Personalization](#personalization)
+    - [Productivity](#productivity)
+    - [System Tools](#system-tools)
+    - [Virtualization](#virtualization)
+- [CLI Tools](#cli-tools)
 - [Editor Plugins](#editor-plugins)
 - [Language Servers](#language-servers)
-- [Graphic Libraries](#graphic-libraries)
-- [GUI Programming](#gui-programming)
-- [Multimedia Processing](#multimedia-processing)
-- [XML & Data Serialization](#xml--data-serialization)
-- [Templating](#templating)
-- [Numerical Computation](#numerical-computation)
-- [Crypto & Security](#crypto--security)
-- [Web Development](#web-development)
-- [IoC and Dependency Injection](#ioc-and-dependency-injection)
+- [Libraries](#libraries)
+    - [Crypto & Security](#crypto--security)
+    - [Data Structures & Data Types](#data-structures--data-types)
+    - [Editor Plugins](#editor-plugins)
+    - [Graphic Libraries](#graphic-libraries)
+    - [GUI Programming](#gui-programming)
+    - [IoC and Dependency Injection](#ioc-and-dependency-injection)
+    - [Language Servers](#language-servers)
+    - [Multimedia Processing](#multimedia-processing)
+    - [Numerical Computation](#numerical-computation)
+    - [Templating](#templating)
+    - [Web Development](#web-development)
+    - [XML & Data Serialization](#xml--data-serialization)
+    - [Cryptography](#cryptography)
 
-## Apps
+### Apps
+
+#### Cryptography & Security
+
+- [Integrity Check](https://gitlab.com/vinarisoftware/integrity-check-gtk) -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
+
+#### Design Tools
 
 - [Akira](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK 
 - [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long
