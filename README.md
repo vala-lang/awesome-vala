@@ -4,13 +4,13 @@
 
 A curated list of resources for Vala - A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
 
-## Table of Contents
+## Contents
 
 - [Apps](#apps)
-    - [Cryptography & Security](#crypto--security)
+    - [Cryptography & Security](#cryptography--security)
     - [Design Tools](#design-tools)
     - [Development Tools](#development-tools)
-    - [Games](#games)
+    - [Gaming](#gaming)
     - [Internet Browsers](#internet-browsers)
     - [Music](#music)
     - [Personalization](#personalization)
@@ -21,9 +21,8 @@ A curated list of resources for Vala - A programming language using modern high 
 - [Editor Plugins](#editor-plugins)
 - [Language Servers](#language-servers)
 - [Libraries](#libraries)
-    - [Crypto & Security](#crypto--security)
+    - [Crypto & Security](#cryptography--security-1)
     - [Data Structures & Data Types](#data-structures--data-types)
-    - [Editor Plugins](#editor-plugins)
     - [Graphic Libraries](#graphic-libraries)
     - [GUI Programming](#gui-programming)
     - [IoC and Dependency Injection](#ioc-and-dependency-injection)
@@ -43,16 +42,16 @@ A curated list of resources for Vala - A programming language using modern high 
 
 #### Design Tools
 
-- [Akira](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK 
-- [Birdfont](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format. 
+- [Akira](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
+- [Birdfont](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 - [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
 
 #### Development Tools
 
-- [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/)
-- [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI
+- [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
+- [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
-#### Games
+####
 
 - [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 
@@ -70,41 +69,41 @@ A curated list of resources for Vala - A programming language using modern high 
 
 #### Productivity
 
-- [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long
-- [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal. 
-- [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
-- [elementary OS App Center](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS 
-- [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer
-- [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop. 
+- [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
+- [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
+- [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
+- [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
 - [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz
-- [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app
-- [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager 
-- [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown
+- [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
+- [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
+- [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
 - [pdfpc](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
-- [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 
-- [Spice-up](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop 
+- [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux.
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
 
-#### System Tools 
+#### System Tools
 
-- [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages. 
-- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources. 
-- [Peek](https://github.com/w/peek) - Simple animated GIF screen recorder with an easy to use interface 
-- [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM
+- [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
+- [elementary OS App Center](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
+- [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages.
+- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
+- [Peek](https://github.com/w/peek) - Simple animated GIF screen recorder with an easy to use interface.
+- [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
 
 #### Virtualization
 
 - [GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - A simple GNOME 3 application to access virtual machines.
 
-#### Weather 
+#### Weather
 
-- [Meteo](https://gitlab.com/bitseater/meteo) - GTK Weather app using the OpenWeatherMap API
+- [Meteo](https://gitlab.com/bitseater/meteo) - GTK Weather app using the OpenWeatherMap API.
 
 ### CLI Tools
 
-- [EasyDocs](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation    
-- [Spider](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure
-- [Valdo](https://github.com/vala-lang/valdo) - Create new Vala projects from templates
+- [EasyDocs](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
+- [Spider](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure.
+- [Valdo](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
 
 ### Editor Plugins
 
@@ -119,13 +118,13 @@ A curated list of resources for Vala - A programming language using modern high 
 
 ### Libraries
 
-- [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib 
+- [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib.
 - [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
-- [gpseq](https://gitlab.com/kosmospredanie/gpseq) - A parallelism library for Vala and GObject 
-- [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API
-- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C
-- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo 
-- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - Vala Utility Libraries (Streams, Text, JSON, Archives) 
+- [gpseq](https://gitlab.com/kosmospredanie/gpseq) - A parallelism library for Vala and GObject.
+- [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API.
+- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C.
+- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
+- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - Vala Utility Libraries (Streams, Text, JSON, Archives).
 
 
 #### Data Structures & Data Types
@@ -173,7 +172,7 @@ A curated list of resources for Vala - A programming language using modern high 
 
 #### Web Development
 
-- [Ambition](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉)
+- [Ambition](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).
 - [Valum](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
 
 #### IoC and Dependency Injection
