@@ -93,7 +93,7 @@ A curated list of resources for Vala - A programming language using modern high 
 - [elementary OS App Center](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
 - [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages.
 - [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
-- [Peek](https://github.com/w/peek) - Simple animated GIF screen recorder with an easy to use interface.
+- [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
 - [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
 
 ### Virtualization
