@@ -193,3 +193,4 @@ A curated list of resources for Vala - A programming language using modern high 
 - [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML.
 - [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
 - [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.
+- [SSON](https://github.com/RealDoigt/simple-stupid-object-notation) - A configuration file format on steroids with a simple syntax.
