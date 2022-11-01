@@ -55,6 +55,7 @@ A curated list of resources for Vala - A programming language using modern high 
 
 ### Games
 
+- [GameHub](https://github.com/tkashkin/GameHub) - A unified library for all your games.
 - [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 - [Sage](https://github.com/antolius/sage) - A code breaking game made for elementary OS.
 - [Warble](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
