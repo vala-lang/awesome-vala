@@ -52,6 +52,7 @@ A curated list of resources for Vala - A programming language using modern high 
 
 - [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
 - [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
+- [Kangaroo](https://github.com/dbkangaroo/kangaroo) AI-powered SQL client and admin tool for popular databases.
 
 ### Games
 
