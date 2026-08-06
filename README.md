@@ -117,6 +117,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 - [EasyDocs](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
 - [Spider](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure.
 - [Valdo](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
+- [Vamposer](https://github.com/ValaTux/vamposer) - Dependency manager for Vala projects inspired by Composer/Go modules and integrated with Meson subprojects.
 
 ## Editor Plugins
 
